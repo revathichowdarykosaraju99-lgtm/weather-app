@@ -1,6 +1,4 @@
 
-    <link rel="stylesheet" href="Stylee.css">
-  </head>
   <body>
     <div class="weather">
       <h2>Weather Report</h2>
